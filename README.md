@@ -10,60 +10,28 @@ Permite visualizar:
 - Ingresos por canal
 - Rendimiento por vendedor
 
-📈 Métricas clave
+Métricas clave
 - Leads Generados
 - Ventas Cerradas
 - Tasa de Conversión (%)
 - Ingresos Totales
 - Ticket Promedio
 
-📊 Visualizaciones
+Visualizaciones
 - Embudo de conversión (Funnel)
 - Evolución de ingresos
 - Distribución de ingresos por canal
 - Ventas por vendedor
 
-🛠️ Herramientas utilizadas
+Herramientas utilizadas
 - Power BI
 - DAX
 - Modelado de datos
 
-🎯 Objetivo
-Analizar el pipeline comercial y detectar oportunidades de mejora en el proceso de ventas.
-# 📊 Dashboard Comercial CRM
-
-## 📌 Descripción
-Dashboard desarrollado en Power BI para analizar el desempeño comercial de un CRM.
-
-Permite visualizar:
-- Leads generados
-- Pipeline de ventas
-- Tasa de conversión
-- Ingresos por canal
-- Rendimiento por vendedor
-
-## 📈 Métricas clave
-- Leads Generados
-- Ventas Cerradas
-- Tasa de Conversión (%)
-- Ingresos Totales
-- Ticket Promedio
-
-## 📊 Visualizaciones
-- Embudo de conversión (Funnel)
-- Evolución de ingresos
-- Distribución de ingresos por canal
-- Ventas por vendedor
-
-## 🛠️ Herramientas utilizadas
-- Power BI
-- DAX
-- Modelado de datos
-
-## 🎯 Objetivo
+Objetivo
 Analizar el pipeline comercial y detectar oportunidades de mejora en el proceso de ventas.
 
-## 📁 Archivo
+📁 Rutas
 dashboard-powerbi/
 │
 ├── Dashboard_Comercial.pbix
